@@ -1,7 +1,7 @@
 Currency Rates API
 ===================
 
-This API for gets currency rates from 3 different banks, HNB and PBZ API will get you currency rates only for current(today) date, while  
+This API gets currency rates from 3 different banks, HNB and PBZ API will get you currency rates only for current(today) date, while  
 HNBex allows you to specify date.
 
 Values are stored in MySQL database, database is exported in ```currency_rates.sql``` file and you have to create database and import this file.  
